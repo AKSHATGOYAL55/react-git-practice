@@ -2,7 +2,7 @@ import React from 'react'
 
 function Navbar() {
   return (
-    <div>
+    <div className='bg-red-200'>
       Navbar is looking crazy! wow
     </div>
   )
